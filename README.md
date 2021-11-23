@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**EshanKasliwal/EshanKasliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eshan Kasliwal 👋🏻
 
-Here are some ideas to get you started:
+  
+### AI Enthusiast 💻 | Passionate Programmer 👨🏻‍💻 | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- C, C++, Python, Javascript
+
+  
+## 😃 About me 
+ -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/eshan-kasliwal-59538017a/)
+ 
+ -📚 Learning and Implementating Data Structure and Algorithms
+ 
+ -� Exploring Machine Learning and Deep Learning, Tenserflow and Computer Vision
+ 
+ -✉️ Reach me at [Gmail](eshan.kasliwal@gmail.com)
+
+  
+
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=EshanKasliwal&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=EshanKasliwal&theme=blueberry_duo"/>
+
+
+### Designed by 
+
+- [@EshanKasliwal](https://www.github.com/EshanKasliwal)
+
+  
