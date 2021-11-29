@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- C, C++, Python, Javascript
+- C, C++, Python, Javascript!!
 
   
 ## 😃 About me 
