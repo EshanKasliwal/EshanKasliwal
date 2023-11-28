@@ -6,15 +6,15 @@
 
 
 ## 🛠 Skills
-- C++, Python, Git, Linux, SQL, Spark, Tableau 
+- Python, Git, Linux, SQL, Hadoop, Spark, Tableau 
 
   
 ## 😃 About me 
  -🍳 Find me on [LinkedIn](https://www.linkedin.com/in/eshan-kasliwal-59538017a/)
  
- -📚 Learning and Implementating Big data fundamentals 
+ -📚 Learning and Implementing Big Data Fundamentals 
  
- -� Exploring Machine Learning, Data processing using Spark and AWS cloud infrastructures. 
+ -� Exploring Machine Learning and data processing using Spark and AWS cloud infrastructures. 
  
  -✉️ Reach me at [Gmail](eshan.kasliwal@gmail.com)
 
