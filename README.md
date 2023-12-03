@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- Python, Git, Linux, SQL, Hadoop, Spark, Tableau 
+- Python, SQL, Hadoop, Spark, Tableau, Excel, Git, Linux
 
   
 ## 😃 About me 
